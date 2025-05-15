@@ -1,2 +1,3 @@
 # text_extraction_from_pdfs
-Extract texts from trilingual pdfs and map the sentences into vector embeddings and align the similar sentences using cosine similarity
+This repository contain the python scripts for extracting text as paragraphs from PDFs and clean them and save them as jsonl files.
+The cleaned sentences are mapped to vector embeedings using multilingual e5 model and similar sentences are aligned using the cosine similarity scores.
