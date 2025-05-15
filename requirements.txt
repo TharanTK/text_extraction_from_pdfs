@@ -1,0 +1,5 @@
+requests
+pypdf2
+pdfplumber
+numpy
+pandas
